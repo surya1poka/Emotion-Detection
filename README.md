@@ -1,4 +1,4 @@
-# Facial-Emotion-Recognition-using-OpenCV-and-Deepface
+# Emotion_Detection
 This project implements real-time facial emotion detection using the `deepface` library and OpenCV. It captures video from the webcam, detects faces, and predicts the emotions associated with each face. The emotion labels are displayed on the frames in real-time.
 This is probably the shortest code to implement realtime emotion monitoring.
 - Give this repository a ⭐ if you liked it, since it took me time to understand and implement this
@@ -56,6 +56,7 @@ This is probably the shortest code to implement realtime emotion monitoring.
 13. If the 'q' key is pressed, exit the loop.
 
 14. Release the video capture and close all windows using `cap.release()` and `cv2.destroyAllWindows()`.
+
 
 
 
